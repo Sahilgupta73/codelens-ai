@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+
+.venv/
+__pycache__/
+.pytest_cache/
+chroma_db/
+workspace_repos/
+
+codelens_debug_report*.md
